@@ -1,6 +1,7 @@
 Hi there 👋
 
 Current Corporate Lifestyle 🏢
+
 I’m currently an engineer on the Meridian team focused on Enterprise Data Storytelling.
 
 Tech I Love ❤️
